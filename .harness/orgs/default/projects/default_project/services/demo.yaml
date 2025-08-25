@@ -1,0 +1,5 @@
+service:
+  name: demo
+  identifier: demo
+  orgIdentifier: default
+  projectIdentifier: default_project
